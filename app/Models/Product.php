@@ -19,7 +19,7 @@ class Product extends Model
 
     public function getExcerptAttribute()
     {
-        return $this->excerpt(250);
+        return $this->excerpt(150);
     }
 
     public function excerpt($length)
