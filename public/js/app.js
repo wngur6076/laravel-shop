@@ -11481,10 +11481,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   data: function data() {
     return {
@@ -11617,7 +11613,7 @@ __webpack_require__.r(__webpack_exports__);
 
 _fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_0__.config.autoReplaceSvg = 'nest';
 
-_fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_0__.library.add(_fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faCaretUp, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faCaretDown, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faStar, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faCheck, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faSpinner, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faArrowUp); // Kicks off the process of finding <i> tags and replacing with <svg>
+_fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_0__.library.add(_fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faCaretUp, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faCaretDown, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faStar, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faCheck, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faSpinner, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faArrowUp, _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_1__.faAngleRight); // Kicks off the process of finding <i> tags and replacing with <svg>
 
 _fortawesome_fontawesome_svg_core__WEBPACK_IMPORTED_MODULE_0__.dom.watch();
 
@@ -47192,7 +47188,7 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { staticClass: "col-lg-9 g-mb-80" }, [
+  return _c("div", { staticClass: "col-lg-9 g-mb-80 asdas" }, [
     _c("div", { staticClass: "g-pr-20--lg" }, [
       _c(
         "div",

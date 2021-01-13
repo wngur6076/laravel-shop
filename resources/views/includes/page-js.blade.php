@@ -1,7 +1,21 @@
 <!-- ================== BEGIN BASE JS ================== -->
+<script src="{{ asset('js/app.js') }}"></script>
+
+<!-- JS Implementing Plugins -->
+<script src="{{ asset('assets/vendor/hs-megamenu/src/hs.megamenu.js') }}"></script>
+<script src="{{ asset('assets/vendor/masonry/dist/masonry.pkgd.min.js') }}"></script>
+<script src="{{ asset('assets/vendor/imagesloaded/imagesloaded.pkgd.min.js') }}"></script>
+
+<!-- JS Unify -->
+<script src="{{ asset('assets/js/hs.core.js') }}"></script>
+<script src="{{ asset('assets/js/components/hs.header.js') }}"></script>
+<script src="{{ asset('assets/js/helpers/hs.hamburgers.js') }}"></script>
+<script src="{{ asset('assets/js/components/hs.tabs.js') }}"></script>
+<script src="{{ asset('assets/js/components/hs.sticky-block.js') }}"></script>
+<script src="{{ asset('assets/js/components/hs.go-to.js') }}"></script>
+
 <!-- JS Plugins Init. -->
 <script>
-
     $(document).ready(function () {
             // initialization of tabs
             $.HSCore.components.HSTabs.init('[role="tablist"]');

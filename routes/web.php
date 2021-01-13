@@ -13,12 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+Route::view('/', 'layouts.default');
+Route::view('/product', 'layouts.default');
 
-Route::get('/', function () {
-    return view('home');
-});
-
-// Route::view('/{any}', 'spa')->where('any', '.*');
+Route::view('/{any}', 'layouts.empty')->where('any', '.*');

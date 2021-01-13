@@ -1,5 +1,5 @@
 <template>
-    <div class="col-lg-9 g-mb-80">
+    <div class="col-lg-9 g-mb-80 asdas">
         <div class="g-pr-20--lg">
             <div class="masonry-grid row g-mb-70">
                 <div class="masonry-grid-sizer col-sm-1"></div>
@@ -42,10 +42,6 @@
                     </article>
                     <!-- End Blog Classic Blocks -->
                 </div>
-
-
-
-
             </div>
 
             <!-- Pagination -->
@@ -108,8 +104,5 @@ export default {
                 })
         },
     },
-
-
 }
-
 </script>

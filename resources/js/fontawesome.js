@@ -6,11 +6,12 @@ import { faCaretUp,
     faStar,
     faCheck,
     faSpinner,
-    faArrowUp } from '@fortawesome/free-solid-svg-icons';
+    faArrowUp,
+    faAngleRight} from '@fortawesome/free-solid-svg-icons';
 
     library.add(faCaretUp,
     faCaretDown,
     faStar,
-    faCheck, faSpinner, faArrowUp);
+    faCheck, faSpinner, faArrowUp, faAngleRight);
     // Kicks off the process of finding <i> tags and replacing with <svg>
     dom.watch();
