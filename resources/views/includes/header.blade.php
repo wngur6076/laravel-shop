@@ -70,31 +70,33 @@
                         <!-- Deposit -->
                         <li class="nav-item  g-mx-10--lg g-mx-15--xl">
                             <a href="../../unify-main/shortcodes/index.html"
-                                class="nav-link g-py-7 g-px-0">입금요청</a>
+                                class="nav-link g-py-7 g-px-0">입금 요청</a>
                         </li>
                         <!-- End Deposit -->
 
                         <!-- GiftVoucher -->
                         <li class="nav-item  g-mx-10--lg g-mx-15--xl">
-                            <a href="../../unify-main/shortcodes/index.html" class="nav-link g-py-7 g-px-0">문화상품권충전</a>
+                            <a href="../../unify-main/shortcodes/index.html" class="nav-link g-py-7 g-px-0">문화상품권 충전</a>
                         </li>
                         <!-- End GiftVoucher -->
+
+                        <!-- MobileConfirm -->
+                        <li class="nav-item  g-mx-10--lg g-mx-15--xl">
+                            <a href="../../unify-main/shortcodes/index.html" class="nav-link g-py-7 g-px-0">휴대폰 인증</a>
+                        </li>
+                        <!-- End MobileConfirm -->
+
+                        <!-- Login, Register -->
+                        <li class="g-mx-10--lg g-mx-15--xl">
+                            <ul class="float-right mb-0">
+                                <li class="list-inline-item"><a href="" class="btn u-btn-outline-primary">Register</a></li>
+                                <li class="list-inline-item"><a href="" class="btn u-btn-primary">Login</a></li>
+                            </ul>
+                        </li>
+                        <!-- End Login, Register -->
                     </ul>
                 </div>
                 <!-- End Navigation -->
-
-                <!-- Login, Register -->
-                <ul class="list-inline float-right mb-0">
-                    <li class="list-inline-item">
-                        <a class="btn u-btn-outline-primary"
-                            href="page-register-1.html">Register</a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a class="btn u-btn-primary"
-                            href="page-login-1.html">Login</a>
-                    </li>
-                </ul>
-                <!-- End Login, Register -->
             </div>
         </nav>
     </div>
