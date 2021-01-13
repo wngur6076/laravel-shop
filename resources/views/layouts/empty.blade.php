@@ -2,7 +2,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
-    @include('includes.head')
+    @include('includes.color.head')
 </head>
 
 <body>
@@ -10,7 +10,7 @@
         <router-view></router-view>
     </div>
 
-    @include('includes.page-js')
+    @include('includes.color.page-js')
 </body>
 
 </html>

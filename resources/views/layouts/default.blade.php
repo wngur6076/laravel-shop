@@ -2,7 +2,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
 <head>
-    @include('includes.head')
+    @include('includes.unify.head')
 </head>
 
 <body>
@@ -30,7 +30,7 @@
         <div class="u-outer-spaces-helper"></div>
     </div>
 
-    @include('includes.page-js')
+    @include('includes.unify.page-js')
 
 </body>
 

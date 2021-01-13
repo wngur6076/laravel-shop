@@ -89,8 +89,8 @@
                         <!-- Login, Register -->
                         <li class="g-mx-10--lg g-mx-15--xl">
                             <ul class="float-right mb-0">
-                                <li class="list-inline-item"><a href="" class="btn u-btn-outline-primary">Register</a></li>
-                                <li class="list-inline-item"><a href="" class="btn u-btn-primary">Login</a></li>
+                                <li class="list-inline-item"><a href="{{ url('register') }}" class="btn u-btn-outline-primary">Register</a></li>
+                                <li class="list-inline-item"><a href="{{ url('login') }}" class="btn u-btn-primary">Login</a></li>
                             </ul>
                         </li>
                         <!-- End Login, Register -->

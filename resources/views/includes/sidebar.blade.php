@@ -11,8 +11,8 @@
                 <li><a class="d-block u-link-v5 g-color-gray-dark-v4 rounded g-px-20 g-py-8" href="#"><i
                             class="mr-2 fa fa-angle-right"></i> 디스코드</a>
                 </li>
-                <li><a class="d-block u-link-v5 g-color-gray-dark-v4 rounded g-px-20 g-py-8" href="#"><i
-                            class="mr-2 fa fa-angle-right"></i> 텔레그램</a>
+                <li><a class="d-block u-link-v5 g-color-gray-dark-v4 rounded g-px-20 g-py-8" href="#">
+                    <i class="mr-2 fa fa-angle-right"></i> 텔레그램</a>
                 </li>
             </ul>
         </div>
@@ -30,7 +30,7 @@
                         <li>
                             <article class="media g-mb-35">
                                 <img class="d-flex g-width-40 g-height-40 rounded-circle mr-3"
-                                    src="../../assets/img-temp/100x100/img1.jpg" alt="Image Description">
+                                    src="unify/assets/img-temp/100x100/img1.jpg" alt="Image Description">
                                 <div class="media-body">
                                     <h4 class="h6 g-color-black g-font-weight-600">Htmlstream</h4>
                                     <p class="g-color-gray-dark-v4">This is where we sit down, grab a
@@ -42,7 +42,7 @@
                         <li>
                             <article class="media g-mb-35">
                                 <img class="d-flex g-width-40 g-height-40 rounded-circle mr-3"
-                                    src="../../assets/img-temp/100x100/img3.jpg" alt="Image Description">
+                                    src="unify/assets/img-temp/100x100/img3.jpg" alt="Image Description">
                                 <div class="media-body">
                                     <h4 class="h6 g-color-black g-font-weight-600">Pixeel</h4>
                                     <p class="g-color-gray-dark-v4">This is where we sit down, grab a
@@ -54,7 +54,7 @@
                         <li>
                             <article class="media">
                                 <img class="d-flex g-width-40 g-height-40 rounded-circle mr-3"
-                                    src="../../assets/img-temp/100x100/img2.jpg" alt="Image Description">
+                                    src="unify/assets/img-temp/100x100/img2.jpg" alt="Image Description">
                                 <div class="media-body">
                                     <h4 class="h6 g-color-black g-font-weight-600">WrapBootstrap</h4>
                                     <p class="g-color-gray-dark-v4">This is where we sit down, grab a
